@@ -1,0 +1,2 @@
+api start /home/ardupilot/droneapi-python/example/my_app/vision_module.py
+api start /home/ardupilot/droneapi-python/example/my_app/cv_fns.py
